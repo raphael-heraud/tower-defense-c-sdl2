@@ -1,10 +1,20 @@
 # Tower Defense - C & SDL2
 
+---
+
+## Auteurs : Cloé BIRINGER et Raphaël HERAUD
+
+---
+
 Jeu de stratégie de type Tower Defense développé en langage C avec la bibliothèque graphique **SDL2**. 
 
 L'ordinateur place aléatoirement et automatiquement des vagues d'ennemis terrestres et aériens dans le but de détruire la tour du Roi. 
 
 Différentes tours sont placées stratégiquement pour défendre le Roi. Le chemin suivi par les ennemis de la Horde est retracé aléatoiremnt à chaque début de partie.
+
+---
+
+## Auteurs : Cloé BIRINGER et Raphaël HERAUD
 
 ---
 
